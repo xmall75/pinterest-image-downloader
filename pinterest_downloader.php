@@ -16,7 +16,7 @@ echo "Pinterest Image Downloader";
 ?>
 <title>Pinterest Image Downloader</title>
 <form method="POST">
-	<input type="text" name="url" placeholder="https://www.pinterest.com/pin/281545414194622988/">
+	<input type="text" name="url" placeholder="https://www.pinterest.com/pin/722475965225861502/">
 	<input type="submit" name="submit">
 	<?php
 	if (isset($_POST['submit'])) {
